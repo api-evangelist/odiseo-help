@@ -1,4 +1,4 @@
-# odiseo-help
+# Odiseo
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,130 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-odiseo-help is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://odiseo.help/
+Odiseo provides automated SEO and GEO solutions for WordPress and Shopify sites, leveraging its MCP server to integrate AI tools such as Codex, Claude Code, Cursor, and OpenClaw. The platform enables agencies and businesses to automate search engine optimization, improve local search visibility, and streamline content creation through AI-driven workflows. It offers a range of free SEO tools, detailed documentation, and pricing plans for various needs, supporting both Spanish and English users.
+
+**Areas:** SEO · Automation · WordPress · Shopify · AI
+
+## Odiseo on APIs.io
+
+Everything profiled for Odiseo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/odiseo-help/](https://apis.io/providers/odiseo-help/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Odiseo Articles API](https://apis.io/apis/odiseo-help/odiseo-help-articles-api/) — The Articles API from Odiseo — 2 operation(s) for articles.
+- [Odiseo Sites API](https://apis.io/apis/odiseo-help/odiseo-help-sites-api/) — The Sites API from Odiseo — 1 operation(s) for sites.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Odiseo Agentic Access](https://apis.io/agentic-access/odiseo-help/odiseo-help-agentic-access/)
+
+#### JSON Schema (4)
+
+The data models the API reads and writes.
+
+- [Article](https://apis.io/schemas/odiseo-help/odiseo-help-article/)
+- [ArticleWithContent](https://apis.io/schemas/odiseo-help/odiseo-help-article-with-content/)
+- [RemovedArticle](https://apis.io/schemas/odiseo-help/odiseo-help-removed-article/)
+- [Site](https://apis.io/schemas/odiseo-help/odiseo-help-site/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Odiseo Help Context](https://apis.io/jsonld/odiseo-help/odiseo-help-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Odiseo API Rules](https://apis.io/rules/odiseo-help/odiseo-help-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Odiseo Authentication](https://apis.io/security/odiseo-help/odiseo-help-authentication/)
+- [Odiseo Domain Security](https://apis.io/security/odiseo-help/odiseo-help-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Odiseo Plans Pricing](https://apis.io/plans/odiseo-help/odiseo-help-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://odiseo.help/)
+- [Documentation](https://www.odiseo.help/docs)
+- [Getting started](https://www.odiseo.help/docs/mcp-quickstart)
+- [API reference](https://www.odiseo.help/docs/api-v1.md)
+- [Pricing](https://www.odiseo.help/pricing)
+- [Sign up](https://www.odiseo.help/register?tier=radar)
+- [Blog](https://www.odiseo.help/blog)
+- [Security](https://www.odiseo.help/security)
+- [Terms of service](https://www.odiseo.help/terms)
+- [Privacy policy](https://www.odiseo.help/privacy)
+
+## API Evangelist rating
+
+**Kin Score 60.8** — strong · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 56.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 56.4 |
+| Access clarity | 73.2 |
+
+**Agent readiness 51.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/odiseo-help/](https://apis.io/providers/odiseo-help/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Odiseo: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/odiseo-help/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
